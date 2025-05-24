@@ -15,7 +15,7 @@ class _HomeScreenState extends State<HomeScreen> {
     return Scaffold(
       appBar: AppBar(
         title: const Text('Primera App - Flutter'),
-        backgroundColor: Colors.deepPurpleAccent,
+        backgroundColor: Colors.redAccent,
       ),
       body: Center(
         child: Column(
